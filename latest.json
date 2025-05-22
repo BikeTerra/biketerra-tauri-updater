@@ -1,0 +1,15 @@
+{
+  "version": "",
+  "notes": "",
+  "pub_date": "",
+  "platforms": {
+    "x86_64-pc-windows-msvc": {
+      "signature": "",
+      "url": ""
+    },
+    "aarch64-apple-darwin": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
